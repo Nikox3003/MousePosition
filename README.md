@@ -1,2 +1,2 @@
 # MousePosition
-Simply app to track mouse position.
+Simple app to track mouse position.
